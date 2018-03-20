@@ -29,5 +29,4 @@ public class AdminSqliteHelper extends SQLiteOpenHelper {
     public void onUpgrade(SQLiteDatabase sqLiteDatabase, int i, int i1) {
         sqLiteDatabase.execSQL(DROP_TABLA_PRODUCTOS);
     }
-
 }
