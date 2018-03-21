@@ -25,4 +25,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View view) {
         //Nothing for now
     }
+
+    private void miMetodo(){
+        //Esto es un metodo
+    }
 }
